@@ -3,7 +3,8 @@ body {
 }
 h1 {
     background-color: chocolate;
-    color: black
+    color: black;
+    text-align: center;
 }
 p {
     color: brown;
